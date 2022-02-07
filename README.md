@@ -12,6 +12,7 @@ The API endpoint to get the swimlane and channel data is `http://localhost:3100/
 ### Running the API
 In a separate command line terminal run the following commands: 
 
+````
 cd api
 npm install
 npm start
