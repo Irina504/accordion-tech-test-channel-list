@@ -1,7 +1,8 @@
 # Accordion Technical test
 Create a simple app which will display a list of music channels and make them sortable. 
 
-<img width="789" alt="Untitled" src="https://user-images.githubusercontent.com/84408450/152763546-dd4008b3-1f95-4df4-bdb4-0ad31185684b.png">
+
+<img width="787" alt="Untitled" src="https://user-images.githubusercontent.com/84408450/152764488-83dcbc81-1cd7-404f-b09e-76bf1874ea35.png">
 
 
 ## API 
