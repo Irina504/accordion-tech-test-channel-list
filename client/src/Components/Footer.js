@@ -11,13 +11,7 @@ const Footer = () => {
                 target="_blank"
                 rel="noreferrer"
             > STINGRAY 
-            </a> Coded by 
-            <a 
-                href="https://github.com/Irina504"
-                target="_blank"
-                rel="noreferrer"
-                > Irina Cucereavii
-            </a>
+            </a> 
         </Wrapper> 
 
     ) 
